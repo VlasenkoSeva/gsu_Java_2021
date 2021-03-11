@@ -9,7 +9,7 @@ public class Second {
             System.out.println("Вы ввели неправильное число, попробуйте ещё раз :");
             x = in.nextInt();
         }
-        switch (x){
+        switch (x) {
             case 1:
                 System.out.println("Monday");
                 break;
@@ -31,6 +31,10 @@ public class Second {
             case 7:
                 System.out.println("Weekends");
                 break;
+
+            default: {
+                System.out.println("Nothing");
+            }
         }
     }
 }
