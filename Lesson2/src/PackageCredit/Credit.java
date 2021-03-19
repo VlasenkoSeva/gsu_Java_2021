@@ -54,7 +54,7 @@ public class Credit {
         this.fine = fine;
     }
 
-    public void Show(){
+    public void show(){
         if (fine == true){
             System.out.println("Название кредита : " + NameOfCredit + " Ставка : " + rate + " Дата погошения : " + date + " Штраф есть" );
 
