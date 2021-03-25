@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClassLessons/ClassLessons.iml" filepath="$PROJECT_DIR$/ClassLessons/ClassLessons.iml" />
       <module fileurl="file://$PROJECT_DIR$/Fist_lesson/Fist_lesson.iml" filepath="$PROJECT_DIR$/Fist_lesson/Fist_lesson.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson2/Lesson2.iml" filepath="$PROJECT_DIR$/Lesson2/Lesson2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson3/Lesson3.iml" filepath="$PROJECT_DIR$/Lesson3/Lesson3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeSson4/Lesson4.iml" filepath="$PROJECT_DIR$/LeSson4/Lesson4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lеsson4/Lеsson4.iml" filepath="$PROJECT_DIR$/Lеsson4/Lеsson4.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/gsu_Java_2021.iml" filepath="$PROJECT_DIR$/.idea/gsu_Java_2021.iml" />
     </modules>
   </component>
