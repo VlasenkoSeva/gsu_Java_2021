@@ -1,11 +1,8 @@
-package Services;
+package InClass4.Services;
 
 import java.util.Date;
 
 public interface IParser {
-    void putFilePath();
-
-    void putFilePath();
 
     void putFilePath();
 
@@ -19,4 +16,6 @@ public interface IParser {
     default Date dateParse(){
         return new Date();
     }
+
+
 }

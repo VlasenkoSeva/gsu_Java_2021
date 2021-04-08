@@ -1,6 +1,6 @@
-package MAin;
+package InClass4.MAin;
 
-import Services.IParser;
+import InClass4.Services.IParser;
 
 public class ParsingHelper {
 

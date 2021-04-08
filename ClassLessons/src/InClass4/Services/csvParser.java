@@ -1,9 +1,11 @@
-package Services;
+package InClass4.Services;
 
 import java.util.Date;
 
-public  class XmlParser implements IParser{
+public class csvParser implements IParser{
+
     private String path;
+
 
     @Override
     public void putFilePath() {
@@ -12,18 +14,17 @@ public  class XmlParser implements IParser{
 
     @Override
     public void putFilePath(String path) {
-        this.path = path;
+
     }
 
     @Override
-    public boolean getPath() {
-
+    public boolean getPath(){
+        this.getPath();
         return false;
     }
-
     @Override
-    public void putFilePath(String path) {
-
+    public void putFilePAth(String path) {
+        this.path = path;
     }
 
     @Override

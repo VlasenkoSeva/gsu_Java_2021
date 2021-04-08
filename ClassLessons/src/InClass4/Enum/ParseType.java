@@ -1,4 +1,4 @@
-package Enum;
+package InClass4.Enum;
 
 public enum ParseType {
     CSV(1,"CSV"),
