@@ -3,7 +3,11 @@ package Survey;
 import Enums.PersonRole;
 
 public class Admin extends  Person{
-    public Admin(PersonRole role) {
+    private Admin(PersonRole role) {
         super(role);
+    }
+    public Admin(String name){
+        super(PersonRole.ADMIN);
+        this.setName(name);
     }
 }

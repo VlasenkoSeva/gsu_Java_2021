@@ -21,7 +21,7 @@ public class Main {
         }finally {
             System.out.println("Done");
         }*/
-        GeneralType<XmlParser> type = new GeneralType<>(new XmlParser("Null"));
+       // GeneralType<XmlParser> type = new GeneralType<>(new XmlParser("Null"));
 
     }
 }
